@@ -1,0 +1,64 @@
+{
+  "project_name": "KMP Digital Website",
+  "theme": {
+    "style": "modern-desan",
+    "colors": {
+      "primary": "#2E7D32",
+      "accent": "#C5A645",
+      "background": "#FFFFFF"
+    },
+    "fonts": [
+      "Poppins",
+      "Nunito",
+      "Roboto"
+    ]
+  },
+  "sections": [
+    {
+      "name": "Hero Section",
+      "title": "KMP Digital — Ekosistem Keuangan dan Edukasi dari Desa untuk Desa",
+      "subtitle": "Satu platform untuk simpan, invest, belajar, dan berkembang bersama koperasi digital.",
+      "buttons": [
+        {
+          "label": "Mulai Sekarang",
+          "link": "#"
+        },
+        {
+          "label": "Hubungi Kami",
+          "link": "https://wa.me/6285797128308"
+        }
+      ]
+    },
+    {
+      "name": "Produk Keuangan",
+      "items": [
+        "Talangan Haji",
+        "Beli Emas",
+        "Pembayaran Tagihan",
+        "Rekening Bersama (Rekber KMP)"
+      ]
+    },
+    {
+      "name": "Affiliate KMP",
+      "description": "Ajak teman bergabung di KMP dan dapatkan komisi setiap transaksi.",
+      "cta": "Daftar Sekarang"
+    },
+    {
+      "name": "Pendidikan & Rumah Siap Kerja",
+      "courses": [
+        "Belajar Desain untuk Pemula",
+        "Iklan Digital untuk Bisnis Lokal",
+        "Kelas Kewirausahaan Desa"
+      ]
+    },
+    {
+      "name": "Testimoni Komunitas Desa",
+      "description": "Cerita inspiratif dari anggota koperasi dan pelajar digital di desa."
+    },
+    {
+      "name": "Footer",
+      "info": "© 2025 KMP Digital — Dari Desa untuk Desa",
+      "contact": "https://wa.me/6285797128308"
+    }
+  ]
+}
